@@ -1,0 +1,5 @@
+{
+    "port": "/dev/ttyUSB0",      // Adjust based on your adapter (e.g., COM3 on Windows)
+    "protocol": "AUTO",          // OBD-II protocol (AUTO, ISO 9141-2, etc.)
+    "is_obd1": false             // Set to true for OBD-I mode
+}
